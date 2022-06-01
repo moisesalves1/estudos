@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+    font-family: Tahoma;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+.section1{
+    background-color: #afddfb;
+
+}
+.section1 img, #corretores img{
+    width: 150px;
+}
+.section1 p, #corretores p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.section1 p a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0px;
+    margin: 0px 10px;
+}
+.banner{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+span{
+    font-weight: bold;
+}
+#sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: bold;
+}
+#sobre img, #corretores img{
+    width: 450px;
+}
+#sobre p span, #corretores p span{
+    color: #1d80c1;
+}
+#servicos{
+    background-color: #1d80c1;
+
+}
+#servicos h2, #contato h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+#servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    width: 700px;
+}
+#servicos span, #contato span{
+    color: #fff81b;
+}
+#servicos ul{
+    margin: 40px auto;
+    width: 135px;
+
+}
+#servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+#contato{
+    background-color: #1d80c1;
+}
+#contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+#contato ul{
+    margin: 40px auto;
+    width: 210px;
+    list-style:none;
+}
+#contato ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+#contato ul li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
